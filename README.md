@@ -8,11 +8,11 @@
   <h3> Full Stack Developer || Self-Taught Developer || CS @ EDU</h3>
   
   - Working on **Routine Scheduler** project using <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" align=center /></span>
-  - Exploring <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" align="center"/></span> and <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="30" align="center" /></span>.
+  - Exploring <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" align="center"/></span> </span>.
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/shariful-islam-b3266a1b9/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Shariful Islam</a>
+<a href="www.linkedin.com/in/luis-fernando-diaz-colunga-0a312a248"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Fernando Diaz Colunga</a>
 
 <a href="https://www.instagram.com/sharif__islam_/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Sharif Islam</a>
 
