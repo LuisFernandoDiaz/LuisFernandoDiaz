@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="www.linkedin.com/in/luis-fernando-diaz-colunga-0a312a248"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Fernando Diaz Colunga</a>
+<a href="www.linkedin.com/in/luis-fernando-diaz-colunga-0a312a248"><img align="center" height="27px" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisfernandodiaz.c2001@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Fernando Diaz Colunga</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisfernandodiaz.c2001@gmail.com"><img align="center" height="25px" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
 <hr>
 
