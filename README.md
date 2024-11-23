@@ -8,13 +8,15 @@
   <h3> Full Stack Developer || Self-Taught Developer || CS @ EDU</h3>
   
   - Working on **Routine Scheduler** project using <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" align=center /></span>
-  - Exploring <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" align="center"/></span> </span>.
+  - Exploring <span><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="ReactJS logo" title="ReactJS" height="30" align="center"/></span> </span>.
+
 
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/luis-fernando-diaz-colunga-0a312a248/"><img align="center" height="27px" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisfernandodiaz.c2001@gmail.com"><img align="center" height="25px" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+
 
 <hr>
 
@@ -23,10 +25,12 @@
 ### <u> Languages: </u>
 <br>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 &nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 &nbsp;
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -72,7 +76,7 @@
 ### <u> Currently I'm learning: </u>
 <br>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 &nbsp;
